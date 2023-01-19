@@ -43,11 +43,11 @@ Bot for a Mobile game called invasion. Trades Resources and does daily tasks for
  
  -4. next create x amounts of files called 'Farm"x"' into the main folder
  
-        ![image](https://user-images.githubusercontent.com/95549738/213341746-7ebe603e-04cb-4ce7-ba35-906f7808e6af.png)
+ ![image](https://user-images.githubusercontent.com/95549738/213341746-7ebe603e-04cb-4ce7-ba35-906f7808e6af.png)
  
  -5. Then take screenshots of farm names from the menu and put said screenshots in 'Farm"x"' folders with the image-name 'name'
  
-        ![name](https://user-images.githubusercontent.com/95549738/213341782-5ff4fe1c-dd85-4142-a031-5c4321630925.png)
+   ![name](https://user-images.githubusercontent.com/95549738/213341782-5ff4fe1c-dd85-4142-a031-5c4321630925.png)
  
  -6. once done run program and watch as it logs into each account if it does not log into the account then retake the snipit and retry running the program
  
