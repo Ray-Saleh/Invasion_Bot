@@ -2,10 +2,8 @@
 Bot for a Mobile game called invasion. Trades Resources and does daily tasks for accounts that user T4F logins
 
 
-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
 +            FAIR WARNING               +
-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
-+ You may need to install things below: 
+ You may need to install things below: 
             1. Python                   
             2. pywin32                  
             3. opencv-python            
