@@ -28,7 +28,7 @@ Bot for a Mobile game called invasion. Trades Resources and does daily tasks for
  -1. go into Methods.py and go to line 69 and change it to your path of Nox.exe
         For example if you find you Nox.exe file in "D, Program files, Nox, Bin, Nox.exe" then you would enter or just copy the search bar
         
-        ![image](https://user-images.githubusercontent.com/95549738/213339996-74931df0-8a0c-4693-927d-5ff29991f514.png)
+   ![image](https://user-images.githubusercontent.com/95549738/213339996-74931df0-8a0c-4693-927d-5ff29991f514.png)
         
         os.startfile(r"D:\Program Files\Nox\bin\Nox.exe")
 
