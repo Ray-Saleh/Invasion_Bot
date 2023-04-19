@@ -1,4 +1,6 @@
 # Invasion_Bot
+**DISCLOSURE: THIS IS FOR TESTING AND FOR RESEARCH PURPOSES ON LEARNING IMAGE RECOGNITION THIS IS NOT TO BE USED FOR CHEATING OR BREAKING ANY RULES WRITTEN BY T4F**
+
 Bot for a Mobile game called invasion. Trades Resources and does daily tasks for accounts that user T4F logins
 
 
